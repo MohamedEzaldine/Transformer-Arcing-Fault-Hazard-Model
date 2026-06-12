@@ -42,5 +42,3 @@ A Python GUI application to evaluate the physical risks of internal arcing fault
 **1. Install dependencies:**
 ```bash
 pip install -r requirements.txt
-
-python transformer_hazard_simulator.py
