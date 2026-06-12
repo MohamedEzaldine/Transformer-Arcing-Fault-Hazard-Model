@@ -205,7 +205,13 @@ tempCodeRunnerFile.py
 
 # Ruff stuff:
 .ruff_cache/
+__pycache__/
+*.pyc
 
+# Local outputs from calibration harness
+calibration_data.csv
+fit_pressure_energy.png
+fit_reach.png
 # PyPI configuration file
 .pypirc
 
