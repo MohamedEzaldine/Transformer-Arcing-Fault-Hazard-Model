@@ -36,7 +36,13 @@ A Python GUI application to evaluate the physical risks of internal arcing fault
 *   `.gitignore`: Git ignore rules.
 
 ---
-<img width="1915" height="1023" alt="2" src="https://github.com/user-attachments/assets/e892c3af-373e-4b17-a486-5d09aa0f2370" />
+
+<img width="1915" height="1023" alt="Simulator GUI" src="https://github.com/user-attachments/assets/e892c3af-373e-4b17-a486-5d09aa0f2370" />
+
+## Documentation
+
+For a deep dive into the methodology, physical background, and calibration details, please refer to the official documentation:
+* [TRANSFORMER EXPLOSION & OIL-SPILL HAZARD SIMULATOR Module 2 — Technical Documentation (Version 1.5)[cite: 7]](ضع_رابط_الملف_هنا)
 
 ## Getting Started
 
