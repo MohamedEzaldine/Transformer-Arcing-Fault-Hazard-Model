@@ -44,7 +44,7 @@ A Python GUI application to evaluate the physical risks of internal arcing fault
 ## Documentation
 
 Full technical documentation with the methodology, physical background, and calibration details:
-[Technical_Documentation.pdf](Technical_Documentation.pdf
+[Technical_Documentation.pdf](Technical_Documentation.pdf)
 
 ---
 
