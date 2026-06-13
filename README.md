@@ -6,12 +6,12 @@ A Python GUI application to evaluate the physical risks of internal arcing fault
 
 ## Features
 
-*   **Arc Energy Calculation:** Computes energy using physical voltage gradients.
-*   **Pressure Estimation:** Calibrated model to find peak dynamic tank pressure.
-*   **Current Bounding:** Limits fault currents based on IEC 60076-5 impedance or network capacity.
-*   **Spill Distance:** Calculates oil ejection using Torricelli’s law and ballistic physics.
-*   **Interactive UI:** Built with Tkinter, featuring a live hazard map and risk scores.
-*   **Calibration Script:** Adjusts model parameters using experimental data.
+* **Arc Energy Calculation:** Computes energy using physical voltage gradients.
+* **Pressure Estimation:** Calibrated model to find peak dynamic tank pressure.
+* **Current Bounding:** Limits fault currents based on IEC 60076-5 impedance or network capacity.
+* **Spill Distance:** Calculates oil ejection using Torricelli’s law and ballistic physics.
+* **Interactive UI:** Built with Tkinter, featuring a live hazard map and risk scores.
+* **Calibration Script:** Adjusts model parameters using experimental data.
 
 ---
 
@@ -30,19 +30,23 @@ A Python GUI application to evaluate the physical risks of internal arcing fault
 
 ## Repository Structure
 
-*   `transformer_hazard_simulator.py`: Main dashboard and core simulator engine.
-*   `calibration_harness.py`: Optimization module to regress physical parameters against test data.
-*   `requirements.txt`: Required Python dependencies.
-*   `.gitignore`: Git ignore rules.
+* `transformer_hazard_simulator.py`: Main dashboard and core simulator engine.
+* `calibration_harness.py`: Optimization module to regress physical parameters against test data.
+* `requirements.txt`: Required Python dependencies.
+* `.gitignore`: Git ignore rules.
 
 ---
 
 <img width="1915" height="1023" alt="Simulator GUI" src="https://github.com/user-attachments/assets/e892c3af-373e-4b17-a486-5d09aa0f2370" />
 
+---
+
 ## Documentation
 
-For a deep dive into the methodology, physical background, and calibration details, please refer to the official documentation:
-* [TRANSFORMER EXPLOSION & OIL-SPILL HAZARD SIMULATOR Module 2 — Technical Documentation (Version 1.5)](https://github.com/MohamedEzaldine/Transformer-Arcing-Fault-Hazard-Model/blob/main/Technical_Documentation.docx)[cite: 7]
+Full technical documentation with the methodology, physical background, and calibration details:
+[Technical_Documentation.docx](Technical_Documentation.docx)
+
+---
 
 ## Getting Started
 
