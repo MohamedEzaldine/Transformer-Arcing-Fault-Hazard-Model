@@ -42,7 +42,7 @@ A Python GUI application to evaluate the physical risks of internal arcing fault
 ## Documentation
 
 For a deep dive into the methodology, physical background, and calibration details, please refer to the official documentation:
-* [TRANSFORMER EXPLOSION & OIL-SPILL HAZARD SIMULATOR Module 2 — Technical Documentation (Version 1.5)[cite: 7]](ضع_رابط_الملف_هنا)
+* [TRANSFORMER EXPLOSION & OIL-SPILL HAZARD SIMULATOR Module 2 — Technical Documentation (Version 1.5)[cite: 7]]([ضع_رابط_الملف_هنا](https://github.com/MohamedEzaldine/Transformer-Arcing-Fault-Hazard-Model/blob/main/Technical_Documentation.docx))
 
 ## Getting Started
 
