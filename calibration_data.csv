@@ -1,0 +1,7 @@
+rating_kva,voltage_kv,fault_current_ka,duration_ms,oil_volume_l,arc_energy_kj,dp_meas_bar,reach_meas_m,source
+315,35,7.86,80,3024,115.11,1.96,,Yan2022 test1 - 35kV tank 1.8x1.2x1.4 m; p_peak 297 kPa abs -> 1.96 bar gauge; avg arc voltage 298.2 V; gap 50.1 mm
+315,35,11.86,80,3024,229.55,2.88,,Yan2022 test2 - p_peak 389 kPa abs; avg arc voltage 371.6 V (71.7 V/cm); gap 51.8 mm
+40000,110,17.6,77,26622,269.97,0.48,,Yan2022 test3 - 110kV tank 5.4x1.7x2.9 m; p_peak 149 kPa abs; 87.5 V/cm; gap 55 mm
+40000,110,7.39,,26622,,0.318,,Yan2022 TableII no.1 - p_peak 132.8 kPa abs; arc energy not reported (excluded from fit)
+40000,110,20.36,,26622,,0.892,,Yan2022 TableII no.3 - p_peak 190.2 kPa abs; arc energy not reported
+40000,110,30.06,,26622,,1.599,,Yan2022 TableII no.4 - p_peak 260.9 kPa abs; arc energy not reported
